@@ -1,2 +1,2 @@
-## Snowflake Fractal Generator
-Simulates a repeating fractal
+## Fractal Generator
+Simulates an infinitely zooming, repeating fractal
